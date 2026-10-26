@@ -23,7 +23,7 @@
 - 🎓 Completing a BSc at Federal University Oye-Ekiti
 - 🤝 **Open to full-stack and frontend roles, remote or in Lagos**
 
-## Featured work
+
 
 
 
