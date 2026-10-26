@@ -25,50 +25,7 @@
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://oluwaseyi-bay.vercel.app/work/invmanager">
-        <img src="https://raw.githubusercontent.com/YounQsheyex/My-Portfolio/main/src/assets/projects/invmanager-hero.webp" alt="InvManager landing page" />
-      </a>
-      <h3><a href="https://oluwaseyi-bay.vercel.app/work/invmanager">InvManager</a></h3>
-      <p>Inventory and point of sale for phone, laptop and gadget shops. Per-piece barcodes, already-sold detection, offline selling, staff roles and profit reports.</p>
-      <p><sub>React · Vite · Tailwind CSS · PWA · Paystack</sub></p>
-      <p><a href="https://invmanager.com.ng/">Live site</a> · <a href="https://oluwaseyi-bay.vercel.app/work/invmanager">Case study</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://oluwaseyi-bay.vercel.app/work/acme-homes">
-        <img src="https://raw.githubusercontent.com/YounQsheyex/My-Portfolio/main/src/assets/projects/acme-hero.webp" alt="Acme Homes and Properties home page" />
-      </a>
-      <h3><a href="https://oluwaseyi-bay.vercel.app/work/acme-homes">Acme Homes and Properties</a></h3>
-      <p>Property marketplace for houses and land across Lagos. Search by deal type, with agent and landlord listings reviewed before they go live.</p>
-      <p><sub>React · Vite · Tailwind CSS · Cloudinary</sub></p>
-      <p><a href="https://acmehomesandproperties.vercel.app/">Live site</a> · <a href="https://oluwaseyi-bay.vercel.app/work/acme-homes">Case study</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://oluwaseyi-bay.vercel.app/work/chill-circle">
-        <img src="https://raw.githubusercontent.com/YounQsheyex/My-Portfolio/main/src/assets/projects/chillcircle-hero.webp" alt="The Chill Circle home page" />
-      </a>
-      <h3><a href="https://oluwaseyi-bay.vercel.app/work/chill-circle">The Chill Circle</a></h3>
-      <p>Event ticketing with WhatsApp checkout. Tickets arrive by email as a QR code and a PDF, and each code admits one person, once.</p>
-      <p><sub>Next.js · Tailwind CSS</sub></p>
-      <p><a href="https://chillcircle.com.ng/">Live site</a> · <a href="https://oluwaseyi-bay.vercel.app/work/chill-circle">Case study</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://oluwaseyi-bay.vercel.app/work/torii-gate">
-        <img src="https://raw.githubusercontent.com/YounQsheyex/My-Portfolio/main/src/assets/projects/toriigate.webp" alt="Torii Gate home page" />
-      </a>
-      <h3><a href="https://oluwaseyi-bay.vercel.app/work/torii-gate">Torii Gate</a></h3>
-      <p>Rental platform connecting landlords and tenants, with property search by type, budget and location.</p>
-      <p><sub>React · Node.js · Express · MongoDB</sub></p>
-      <p><a href="https://torri-gate-seyi.vercel.app/">Live site</a> · <a href="https://github.com/YounQsheyex/torri-gate-frontend">Code</a></p>
-    </td>
-  </tr>
-</table>
 
-<p align="center"><a href="https://oluwaseyi-bay.vercel.app/#work"><b>See all my work →</b></a></p>
 
 ## Tech stack
 
@@ -97,14 +54,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-050D0A?style=for-the-badge&logo=vercel&logoColor=3EE0A0)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-050D0A?style=for-the-badge&logo=cloudinary&logoColor=3EE0A0)
 
-## Experience
-
-| When | Role |
-| --- | --- |
-| Jun 2026 – Sep 2026 | **Full-stack developer**, Yuniq Solutions: sign-up and onboarding frontend for Kyrier in SvelteKit and TypeScript |
-| Nov 2025 – Present | **Full-stack web developer (intern)**, ShareSkippy |
-| Aug 2025 – Oct 2025 | **Backend developer (intern)**, Tech Studio Academy: led the API team for an event platform |
-| Jul 2025 – Oct 2025 | **Full-stack developer (intern)**, Tech Studio Academy |
 
 ## Let's talk
 
