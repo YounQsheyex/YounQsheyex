@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://oluwaseyi-bay.vercel.app">
-  <img src="https://raw.githubusercontent.com/YounQsheyex/My-Portfolio/main/public/og-image.png" alt="Oluwaseyi E. Lawrence: I build software businesses run on" width="100%" />
+  <img src="https://raw.githubusercontent.com/YounQsheyex/myportfolio/main/public/og-image.png" alt="Oluwaseyi E. Lawrence: I build software businesses run on" width="100%" />
 </a>
 
 # Hi, I'm Oluwaseyi 👋
